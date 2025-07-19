@@ -42,7 +42,7 @@ I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
   <img align="right" alt="Al Mosrof Mia | LinkedIn" width="20px" src="https://github.com/user-attachments/assets/95a36d35-28d1-4418-af04-dcd9e3851d78" />
 </a>
 <a href="https://twitter.com/almosrof120">
-  <img align="right" alt="Anurag Hazra | Twitter" width="20px" src="https://github.com/user-attachments/assets/e1fbb655-68eb-42a0-8a67-88f2ffc8f01d" />
+  <img align="right" alt="Al Mosrof Mia | Twitter" width="20px" src="https://github.com/user-attachments/assets/e1fbb655-68eb-42a0-8a67-88f2ffc8f01d" />
 </a>
 <a href="[https://www.hackerrank.com/profile/almosrof120]">
   <img align="right" alt="Al Mosrof Mia | HackerRank" width="20px" src="https://github.com/user-attachments/assets/247c77c4-d8be-4296-935c-decc9d7c3639" />
