@@ -18,7 +18,7 @@ I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
 
 **About Me**
 
-- 💼 QA Engineer & Project Manager at [QuickTech IT](https://www.quicktech-ltd.com/)
+- 💼 QA Engineer & Project Manager From Oct 2024 to June 2025, at [QuickTech IT](https://www.quicktech-ltd.com/)
 
 - 📈 Completed my bachelor's degree in Software Engineering (Major in Data Science)
 
