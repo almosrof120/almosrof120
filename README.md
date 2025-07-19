@@ -24,7 +24,7 @@ I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
 
 - ❤️ I love writing code on Python, Dart (Flutter), and SQL
 
-- 💬 Ask me about anything [here](almosrof120@gmail.com)
+- 💬 Ask me about anything [Here](mailto:almosrof120@gmail.com)
 
 <code><img height="30" alt="python" src="https://github.com/user-attachments/assets/4728104c-3104-4fb4-87de-0d7706abaac5" /></code>
 <code><img height="40" alt="flutter" src="https://github.com/user-attachments/assets/b4d11b2d-90d7-4e93-a3b1-88672b437efc" /></code>
