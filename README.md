@@ -14,7 +14,7 @@
 </table>
 
 
-I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
+A passionate Software Engineer and AI Enthusiast from Bangladesh.
 
 **About Me**
 
