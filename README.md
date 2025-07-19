@@ -6,7 +6,7 @@
     <td>
       <h2>
         <a href="https://www.linkedin.com/in/almosrof120/" target="_blank">
-          Hello! I'm <strong>Al Mosrof Mia</strong> 👋
+          Hello! I'm <strong>Al Mosrof Mia</strong>
         </a>
       </h2>
     </td>
