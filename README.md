@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="180" alt="Al Mosrof Mia" src="https://github.com/user-attachments/assets/79410768-2130-48ab-9d67-3bb05dd93a4e" />
+      <img width="500" alt="Al Mosrof Mia" src="https://github.com/user-attachments/assets/a55b8c28-6245-45ec-b62f-5080ea9ad47d" />
     </td>
     <td>
       <h2>
