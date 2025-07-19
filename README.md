@@ -1,6 +1,18 @@
-<p align="center"><a href="https://www.linkedin.com/in/almosrof120/"><img width="80%" alt="Hello, I'm Al Mosrof Mia." src="./assets/gh-readme-header.png" /></a></p>
+<table>
+  <tr>
+    <td>
+      <img width="180" alt="Al Mosrof Mia" src="https://github.com/user-attachments/assets/79410768-2130-48ab-9d67-3bb05dd93a4e" />
+    </td>
+    <td>
+      <h2>
+        <a href="https://www.linkedin.com/in/almosrof120/" target="_blank">
+          Hello! I'm <strong>Al Mosrof Mia</strong> 👋
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
 
-<br />
 
 I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
 
@@ -8,9 +20,9 @@ I'm a Passionate Software Engineer and AI Enthusiast from Bangladesh.
 
 - 💼 QA Engineer & Project Manager at [QuickTech IT](https://www.quicktech-ltd.com/)
 
-- 📈 Completed my bachelor degree in Software Engineering (Major in Data Science)
+- 📈 Completed my bachelor's degree in Software Engineering (Major in Data Science)
 
-- ❤️ I love writing code on Python, and Dart (Flutter), SQL
+- ❤️ I love writing code on Python, Dart (Flutter), and SQL
 
 - 💬 Ask me about anything [here](almosrof120@gmail.com)
 
